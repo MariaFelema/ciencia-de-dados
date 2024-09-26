@@ -34,5 +34,8 @@ nav{
 }
 
 nav a{
-    
+    text-decoration: none;
+    color: var(--bg-color);
+    margin: 0 2rem 1rem 0rem;
+    font-size: 1.2rem;
 }
