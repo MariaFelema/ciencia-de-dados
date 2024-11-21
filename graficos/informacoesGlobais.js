@@ -1,4 +1,5 @@
-const url = 'https://raw.githubusercontent.com/silviosnjr/CienciaDeDados-CriandoGraficosDinamicosComJavaScript/refs/heads/Aula01/trabalho/trabalho-dados-gerais.json'
+
+const ucrl = 'https://raw.githubusercontentjson.com/guilhermeonrails/api/main/dados-globais.'
 
 async function visualizarInformacoesGlobais() {
     const res = await fetch(url)
